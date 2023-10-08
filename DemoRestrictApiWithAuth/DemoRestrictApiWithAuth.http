@@ -1,0 +1,6 @@
+@DemoRestrictApiWithAuth_HostAddress = http://localhost:5264
+
+GET {{DemoRestrictApiWithAuth_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
